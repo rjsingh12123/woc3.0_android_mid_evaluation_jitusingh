@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string name="choose_your_day">Choose Your Day</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="_08_30_09_45">08:30 – 09:45</string>
+    <string name="_10_15_11_30">10:15 – 11:30</string>
+    <string name="_12_00_13_15">12:00 – 13:15</string>
+    <string name="_14_00_16_00">14:00 – 16:00</string>
+    <string name="it694">IT694</string>
+    <string name="it628">IT628</string>
+    <string name="it602">IT602</string>
+    <string name="it629">IT629</string>
+    <string name="it632">IT632</string>
+    <string name="computer_networks">Computer Networks</string>
+    <string name="systems_programming">Systems Programming</string>
+    <string name="object_oriented_programming">Object Oriented Programming</string>
+    <string name="web_programming">Web Programming</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="pks">PKS</string>
+    <string name="akm">AKM</string>
+    <string name="ls">LS</string>
+    <string name="sb">SB</string>
+    <string name="mk">MK</string>
+    <string name="hurray_no_lecture_today">Hurray no lecture today</string>
+
+
+</resources>
